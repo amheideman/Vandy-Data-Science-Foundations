@@ -1,11 +1,14 @@
 # Vandy-Data-Science-Foundations
 Practicing for Vandy Data Science Foundations course
+
 Project: Exploring relationship between Google Search Volume and Sales
+
 Datasets:
 * Google Search Volume Index -- provided by Nissan Global Search Interest Dashboard
-*   Quantifies and indexes search volume by brand and model relative to other brands and models within the same time periods
+     * Quantifies and indexes search volume by brand and model relative to other brands and models within the same time periods
 * DHS Sales -- Nissan standard for sales reporting
-*   Shows sales by brand and by model on a monthly basis
+     * Shows sales by brand and by model on a monthly basis
+       
 Key Questions:
 * Is there a relationship between search volume and sales?
 * What is the strength of the relationship?
